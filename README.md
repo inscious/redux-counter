@@ -34,7 +34,7 @@
 
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
-  <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
+  <!-- <a href="#sparkles-features">Features</a> &#xa0; | &#xa0; -->
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
@@ -48,21 +48,18 @@
 
 A React counter application that allows users to increment or decrement a number displayed on the screen. The app utilizes Redux to manage the state of the counter and ensure seamless updates across the components. With its simple and intuitive design, users can quickly perform counting operations and track their progress.
 
-## :sparkles: Features
+<!-- ## :sparkles: Features -->
 
-:heavy_check_mark: Feature 1;\
+<!-- :heavy_check_mark: Feature 1;\
 :heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+:heavy_check_mark: Feature 3; -->
 
 ## :rocket: Technologies
 
 The following tools were used in this project:
 
--   [Expo](https://expo.io/)
--   [Node.js](https://nodejs.org/en/)
--   [React](https://pt-br.reactjs.org/)
--   [React Native](https://reactnative.dev/)
--   [TypeScript](https://www.typescriptlang.org/)
+-   [React](https://reactjs.org/)
+-   [Redux](https://redux.js.org/)
 
 ## :white_check_mark: Requirements
 
@@ -90,7 +87,7 @@ $ yarn start
 
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
-Made with :heart: by <a href="https://github.com/inscious" target="_blank">{{YOUR_NAME}}</a>
+Made with :heart: by <a href="https://github.com/inscious" target="_blank">Saul Cortes</a>
 
 &#xa0;
 
